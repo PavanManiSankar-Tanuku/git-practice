@@ -1,2 +1,3 @@
 admin can add and remove 
 change roles
+manage the database
